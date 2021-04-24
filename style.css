@@ -1,0 +1,23 @@
+header {
+    background-color: blueviolet;
+    display: inline-block;
+    width: 600px;
+    margin-left: calc((100% - 600px) / 2);
+    margin-right: calc((100% - 600px) / 2);
+}
+
+main {
+    background-color: cadetblue;
+    display: inline-block;
+    width: 600px;
+    margin-left: calc((100% - 600px) / 2);
+    margin-right: calc((100% - 600px) / 2);
+}
+
+.logo {
+    height: 50px;
+}
+
+.Image {
+    height: 100px;
+}
